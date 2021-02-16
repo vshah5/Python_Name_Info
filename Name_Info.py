@@ -1,4 +1,4 @@
-#Filename: Shah_Valay_QuizNum3.py
+#Filename: Name_Info.py
 #Author: Valay Shah
 #Date Created: December 1, 2019
 #Description: The program asks for the user's first and last name and outputs
@@ -7,7 +7,7 @@
 
 #Header Output
 print ("X*75")
-print ("Filename: Shah_Valay_QuizNum1.py")
+print ("Filename: Name_Info.py")
 print ("Author: Valay Shah")
 print ("Date Created: December 1, 2011")
 print ("""Description: The program asks for the user's first and last name and 
